@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/madjagan/indie-teacher.git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Teacher App
+     A good fallout of the teachers who were predominantly restricted to teaching in their class were forced to adopt technology to communicate with their students. This new skills opens up a new opportunity for these teachers.They can supplement their income by taking 1-1 classes remotely.
+      
+     The proposed app is to be used as a management tool.The tool can be used for:
+     - setting up and managing session schedules.
+     - Repository of agenda, feedback and notes per session.
+     - Communicating with the student. 
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
